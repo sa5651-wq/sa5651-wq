@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Baasika
+🎓 CSE Student  
+💻 Learning Python & AI/ML  
+🚀 Exploring Open Source  
+
+## Skills
+- Python
+- Basics of Programming
+- Git & GitHub
+
+## Goals
+- Build AI/ML projects
+- Contribute to Open Source
 
 <!--
 **sa5651-wq/sa5651-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
