@@ -23,5 +23,4 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add your link)
-- Email: (add your email)
+- Email: baasikaalmass@gmail.com
