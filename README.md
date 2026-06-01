@@ -1,28 +1,27 @@
-# Hi 👋 I'm Baasika
-🎓 CSE Student  
-💻 Learning Python & AI/ML  
-🚀 Exploring Open Source  
+# Hi 👋 I'm Baasika Almass
 
-## Skills
-- Python
-- Basics of Programming
-- Git & GitHub
+🎓 CSE Student — passionate about AI & Machine Learning  
+📍 India  
+🌱 Currently learning: Python, NumPy, Pandas, Scikit-learn  
+🎯 Goal: Become a Machine Learning Engineer  
 
-## Goals
-- Build AI/ML projects
-- Contribute to Open Source
+---
 
-<!--
-**sa5651-wq/sa5651-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Python · Git & GitHub · Basics of ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+| # | Project | Description |
+|---|---------|-------------|
+| 01 | [Calculator](link) | Basic calculator using Python |
+| 02 | [Number Guessing Game](link) | Guessing game with difficulty levels |
+
+*(More coming soon...)*
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (add your link)
+- Email: (add your email)
